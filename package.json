@@ -1,0 +1,33 @@
+{
+  "name": "gulp-tabify",
+  "description": "Turn those spaces into tabs!",
+  "version": "0.0.1",
+  "repository": "https://github.com/z2oh/gulp-tabify",
+  "author": "Jeremy Day <jadaytime@gmail.com> (z2oh.github.io)",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulp-plugin",
+    "tabify",
+    "gulp",
+    "tab"
+  ],
+  "dependencies": {
+    "gulp-util": "~3.0.7",
+    "through2": "~2.0.1"
+  },
+  "devDependencies": {
+    "event-stream": "~3.3.4",
+    "gulp": "~3.9.1",
+    "mocha": "~3.0.2",
+    "stream": "0.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT"
+}
