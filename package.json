@@ -1,7 +1,7 @@
 {
   "name": "gulp-tabify",
   "description": "Turn those spaces into tabs!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/z2oh/gulp-tabify",
   "author": "Jeremy Day <jadaytime@gmail.com> (z2oh.github.io)",
   "files": [
@@ -9,9 +9,12 @@
   ],
   "keywords": [
     "gulp-plugin",
+    "gulpplugin",
     "tabify",
     "gulp",
-    "tab"
+    "tab",
+    "space",
+    "indent"
   ],
   "dependencies": {
     "gulp-util": "~3.0.7",

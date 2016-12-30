@@ -1,7 +1,6 @@
 # [gulp](http://gulpjs.com)-tabify
 
 [![Build Status](https://travis-ci.org/z2oh/gulp-tabify.svg?branch=master)](https://travis-ci.org/z2oh/gulp-tabify)
-[![Coverage Status](https://coveralls.io/repos/github/z2oh/gulp-tabify/badge.svg?branch=master)](https://coveralls.io/github/z2oh/gulp-tabify?branch=master)
 [![David](https://david-dm.org/z2oh/gulp-tabify.svg)](https://david-dm.org/z2oh/gulp-tabify.svg)
 
 
